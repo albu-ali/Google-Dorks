@@ -1,4 +1,3 @@
-# Google-Dorks
 ## Google Dorks Cheatsheet
 
 Boost your online search game with these essential **Google Dorks**! 🔍💡
